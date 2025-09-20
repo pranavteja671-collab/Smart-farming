@@ -1,4 +1,4 @@
-team members
+team members:
 1.Bondu Satish-Idea Creator
 2.Adapa Ravi-PPT creator
 3.Garikina Durga Prasad-Website Creator
@@ -7,8 +7,9 @@ team members
 6.Tanakala Karthikeya-Team lead
 7.Kosetti Srinu-Research
 8.Pinapothula Sagar-Operator
-Poster Tools
+Poster Tools:
 Google.
 Gamma.AI
 PPT.
+
 Lovable.ai
